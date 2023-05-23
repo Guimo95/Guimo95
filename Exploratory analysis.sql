@@ -1,3 +1,11 @@
+/* 
+
+This is an exploratory analysis of COVID-19 infections, deaths and vaccinations data.
+
+Skills used in this project: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
+
 -- 1. Selecting the data to be used
 SELECT
 	location AS 'Location',
